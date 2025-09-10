@@ -1,3 +1,4 @@
+# Cadastro !
 idade=int(input('Qual sua idade?'))
 
 if idade>18:
