@@ -26,4 +26,4 @@ if n_1+n_2>n_3 or\
     else:
         print('Triangulo Escaleno ')
 else:
-       
+    print('Não exestente!')
