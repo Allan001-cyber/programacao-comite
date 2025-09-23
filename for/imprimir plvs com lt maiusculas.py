@@ -6,4 +6,4 @@ for lt in v:
     for l in r :
         if lt =='A':
             print(lt)
-            break
+            breakefaf
