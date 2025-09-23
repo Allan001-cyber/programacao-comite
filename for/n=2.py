@@ -31,3 +31,7 @@ f=1
 for m in range(1,10+1):
     f*=m
     print(f)
+
+
+for n in range(0,51,2):
+     print(n)
