@@ -1,8 +1,8 @@
 # Matriz
+# mtz=input('nmr')
+
 
 mtz=[]
-
-# mtz=input('nmr')
 for i in range(10):
     lst=[]
     for j in range(10):
