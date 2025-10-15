@@ -1,6 +1,9 @@
-q=0
 
-p='ABCDEFGHIJKLMNOPQRSTUVWYZ'
+
+#p='ABCDEFGHIJKLMNOPQRSTUVWYZ'
+
+q=0
+p='abcdefghijklmnopqrstuvwyz'
 
 v=input('informe uma letra ')
 
