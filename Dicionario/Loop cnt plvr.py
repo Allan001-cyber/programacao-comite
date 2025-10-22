@@ -13,8 +13,6 @@ for lt in pessoa:
    valor =len(lt)
    q.update()
 
-
-
    for l in p:
     if lt ==l:
       q+=1
