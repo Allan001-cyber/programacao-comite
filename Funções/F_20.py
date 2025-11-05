@@ -21,8 +21,19 @@ def calculo(a,b,c):
            d = a / c
         print(d)
         a = input('Primeiro numero! ')
+        if a.isdigit():
+            a = float(a)
+        else:
+            print('Opção invalida!')
+
         b = input('infome a variavel! ')
+
         c = input('Segundo numero! ')
+        c = input('Segundo numero! ')
+        if c.isdigit():
+            c = float(c)
+        else:
+            print('Opção invalida!')
 
         break
      
